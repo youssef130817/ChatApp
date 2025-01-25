@@ -4,8 +4,6 @@
 
 A desktop chat application built with Java, featuring real-time messaging.
 
-![ChatApp Screenshot](screenshots/app_preview.png) <!-- Add actual screenshot -->
-
 ## Features ✨
 - Real-time text messaging
 - Multi-user support
