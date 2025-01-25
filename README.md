@@ -38,24 +38,8 @@ A desktop chat application built with Java, featuring real-time messaging.
 4. Lancez le client :
     ```bash
     java -jar client/target/chatapp-client-1.0.jar
-Architecture 📂
-
-ChatApp/
-├── client/               # Code client
-│   ├── src/main/java/
-│   │   ├── gui/         # Classes d'interface graphique
-│   │   ├── controllers/ # Gestion des événements
-│   │   └── network/     # Communication réseau
-├── server/               # Code serveur
-│   ├── src/main/java/
-│   │   ├── handlers/    # Gestion des connexions
-│   │   └── models/      # Structures de données
-├── pom.xml               # Configuration Maven
-└── README.md
 
 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/kassimi-youssef-dev/"> <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a> 
-<a href="mailto:youssefkassimi669@gmail.com"> <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> </a> <a href="https://github.com/youssef130817"> <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/> </a>
-
-
-
+<a href="mailto:youssefkassimi669@gmail.com"> <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> </a> 
+<a href="https://github.com/youssef130817"> <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/> </a>
