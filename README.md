@@ -1,7 +1,6 @@
 # ChatApp (Desktop Java Application)
 
 ![Java Version](https://img.shields.io/badge/Java-17%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 A desktop chat application built with Java, featuring real-time messaging.
 
